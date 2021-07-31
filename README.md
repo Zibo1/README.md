@@ -1,2 +1,2 @@
 # README.md
-This is commit
+This is a commit
